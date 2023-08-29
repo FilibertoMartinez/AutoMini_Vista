@@ -1,0 +1,2 @@
+Vista
+-DCATKIN_DEVEL_PREFIX=/home/erick/AutoNomoMini_/Vista_ws/devel -DCMAKE_INSTALL_PREFIX=/home/erick/AutoNomoMini_/Vista_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/erick/AutoNomoMini_/Vista_ws/devel
+
+Name: Vista
+Description: Description of Vista
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
